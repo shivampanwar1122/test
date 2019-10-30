@@ -3,7 +3,7 @@ int main()
 {
 int i,m;
 char x[20];
-printf("enter the number of string:");
+printf("enter the size of string:");
 scanf("%d",&n);
 printf("enter the string:")
 for(i=0;i<n;i++)
